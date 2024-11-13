@@ -1,11 +1,15 @@
-AUTHORS: Connor Neal & Bergen Cloninger
+Coin Flip Game - CS 412 Final Project
 
-CORPORATION: Western Colorado University - Department of Computer Science
+Running the Program:
+- Install all the Java files included in this repository
+- To launch the server, run the Server.java file
+- To launch the client, run the Main.java file
 
-PURPOSE:
-This is a gambling game where the user can bet on the result of a coin flip or the roll of a 6-sided die.
-This game was created as a submission for the final project in the CS 412 - Software Engineering course at Western Colorado University.
-The project has already been submitted and likely will not receive any further updates.
+This program is a gambling game where the user can bet on the result of either a coin flip or the roll of a 6-sided die. Scores are tied to an account, which the user can create after launching the client while the server is running. The program is written in Java and user information is stored using SQL.
 
-INSTRUCTIONS:
-Launch the server from the Server.java file, then launch the client from the Main.java file
+Created by:
+Connor Neal | conneal88@gmail.com | https://www.linkedin.com/in/connor-a-neal/
+Bergen Cloninger
+
+In Association with:
+Western Colorado University - Department of Computer Science
