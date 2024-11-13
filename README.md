@@ -7,9 +7,7 @@ Running the Program:
 
 This program is a gambling game where the user can bet on the result of either a coin flip or the roll of a 6-sided die. Scores are tied to an account, which the user can create after launching the client while the server is running. The program is written in Java and user information is stored using SQL.
 
-Created by:
-Connor Neal | conneal88@gmail.com | https://www.linkedin.com/in/connor-a-neal/
-Bergen Cloninger
+Author 1: Connor Neal | conneal88@gmail.com | https://www.linkedin.com/in/connor-a-neal/ |
+Author 2: Bergen Cloninger
 
-In Association with:
-Western Colorado University - Department of Computer Science
+In Association with Western Colorado University - Department of Computer Science
